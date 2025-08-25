@@ -3,6 +3,7 @@
 📌 Objective
 
 SocialSphere is a simple social media platform built using Java EE concepts. The project helps in practicing Servlets, JSP, and JDBC by creating a basic Facebook-like web app where users can:
+
 Register and log in
 
 Create posts
